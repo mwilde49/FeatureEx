@@ -83,6 +83,9 @@ tmp/
 temp/
 *.tmp
 
+# Inference directory (contains user images and results)
+inference/
+
 # Jupyter outputs (optional - uncomment if you want clean notebooks)
 # *.ipynb
 
