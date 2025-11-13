@@ -1,0 +1,32 @@
+{
+  "dataset_info": {
+    "num_images": 488,
+    "num_labels": 488,
+    "matching_pairs": 488
+  },
+  "image_dimensions": {
+    "channels": 512,
+    "depth": 256,
+    "height": 20,
+    "width": 2
+  },
+  "labels": {
+    "unique_labels": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "num_classes": 5,
+    "has_background": 1
+  },
+  "data_types": {
+    "image_dtype": "float64",
+    "label_dtype": "float64"
+  },
+  "memory_mb": {
+    "per_image": 20.0,
+    "total_dataset": 9760.0
+  }
+}
